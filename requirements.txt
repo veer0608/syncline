@@ -1,0 +1,5 @@
+duckdb
+pytz
+pytest
+dagster
+dagster-webserver
